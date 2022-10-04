@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to my profile 👋 I'm Mahmoud Alyosify 😄
+# Welcome to my profile 👋 I'm Ahmed Mohsen Mohamed 😄
 
 ## About Me:
-  <b> Name: </b> Mahmoud Sayed Youssef </br>
-  <b> Job Title: </b> Instructor at Udemy | Youtube Content Creator | Junior .NET Developer | Bioinformatics Student at Faculty of Computers and Information, Assiut University </br>
-  <b>My Resume: <a href="https://drive.google.com/file/d/1JdoLxZfMKKn4tmMa2yqSGEtwu9UvA2QE/view" target="_blank">RESUME</a></b>
+  <b> Name: </b> Ahmed Mohsen Mohamed  </br>
+  <b> Job Title: </b> Junior .NET Developer | Bioinformatics Student at Faculty of Computers and Information, Assiut University </br>
+  <b>My Resume: <a href="" target="_blank">RESUME</a></b>
   </br>
 
-📫 How to reach me: mahmoudalyosify@gmail.com | <a href="https://mahmoudalyosifysite.github.io/" target="_blank"><b>My Website</b></a>
+📫 How to reach me: mahmoudalyosify@gmail.com | <a href="https://ahmedmohsen74.github.io/A.Mohsen-portofolio/" target="_blank"><b>My Website</b></a>
 
 Quotes
 -----
@@ -42,12 +42,12 @@ Connect with me
 </br>
 
 
-[facebook]: https://www.facebook.com/MahmoudAlyosify/
-[linkedin]: https://www.linkedin.com/in/mahmoudalyosify/
-[whatsapp]: https://wa.me/+201145557959
-[My_Website]: https://mahmoudalyosifysite.github.io/
+[facebook]: https://www.facebook.com/A.Mohsen74/
+[linkedin]: https://www.linkedin.com/in/ahmed-mohsen-a47197213/
+[whatsapp]: https://wa.me/+201094245097
+[My_Website]: https://ahmedmohsen74.github.io/A.Mohsen-portofolio/
 
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoudAlyosify&show_icons=true&locale=en&bg_color=0D1117&hide_border=true&theme=discord_old_blurple" alt="MahmoudAlyosify" align="left"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAlyosify&show_icons=true&locale=en&layout=compact&bg_color=0D1117&hide_border=true&theme=discord_old_blurple" alt="MahmoudAlyosify"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudAlyosify&show_icons=true&locale=en&bg_color=0D1117&hide_border=true&theme=discord_old_blurple" alt="MahmoudAlyosify" align="left"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAlyosify&show_icons=true&locale=en&layout=compact&bg_color=0D1117&hide_border=true&theme=discord_old_blurple" alt="AhmedMohsen"/>
 
 
 <img src="https://user-images.githubusercontent.com/59246305/191567487-0c6fb2ed-e5ef-495d-9dd2-cbeabb35d703.gif" width="1100" height="3">
