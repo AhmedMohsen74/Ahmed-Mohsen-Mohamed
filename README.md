@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 Quotes
 -----
-> “Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.” - `Albert Einstein ♥️`
+> “Success is Not Final, Failure is Not Fatal: it is the Courage to Continue that Counts. ...” - `♥️`
 
 Languages
 -----
