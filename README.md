@@ -49,7 +49,7 @@ Connect with me
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedmohsen74&theme=discord_old_blurple" alt="Ahmed Mohsen" align="left"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedmohsen74&theme=discord_old_blurple" alt="Ahmed Mohsen" align="left" 
 alt="AhmedMohsen" align="left"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmohsen74&show_icons=true&locale=en&layout=compact&bg_color=0D1117&hide_border=true&theme=discord_old_blurple" alt="AhmedMohsen"/>
 
 
