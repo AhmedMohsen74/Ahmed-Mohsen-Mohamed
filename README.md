@@ -48,7 +48,7 @@ Connect with me
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedMohsen&show_icons=true&locale=en&bg_color=0D1117&hide_border=true&theme=discord_old_blurple" alt="Ahmed Mohsen" align="left"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAlyosify&show_icons=true&locale=en&layout=compact&bg_color=0D1117&hide_border=true&theme=discord_old_blurple" alt="AhmedMohsen"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedmohsen74&theme=radical" alt="Ahmed Mohsen" align="left"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAlyosify&show_icons=true&locale=en&layout=compact&bg_color=0D1117&hide_border=true&theme=discord_old_blurple" alt="AhmedMohsen"/>
 
 
 <img src="https://user-images.githubusercontent.com/59246305/191567487-0c6fb2ed-e5ef-495d-9dd2-cbeabb35d703.gif" width="1100" height="3">
